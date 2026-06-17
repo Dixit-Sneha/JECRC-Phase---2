@@ -1,6 +1,5 @@
 Leetcode- 1. Two Sum
 Optimized Approach
-
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
